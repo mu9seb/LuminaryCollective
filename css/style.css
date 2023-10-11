@@ -1,3 +1,8 @@
 * {
-    font-family: 'Playfair Display', serif;
+    font-family: "Playfair Display, 400";
+}
+
+body {
+    background-color: aliceblue;
+    /* padding-top: 1px; */
 }

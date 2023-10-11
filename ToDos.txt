@@ -1,0 +1,18 @@
+- Home
+    - Navbar
+        - make the account dropdown menu functional
+    - Make a carousel of quotes on landing page
+    - flow through 3-4 photos (broad genre) on main page
+
+- User reg
+    - HTML form
+        - user, pw, pw confirm, & email entry fields
+    - How did you hear about us? radio buttons
+- User log
+    - HTML form
+        - user & pw
+    - remember me checkbox
+- Services
+    - at least 6 goods purchasable by a button
+    - displayed in a bootstrap card
+- Checkout

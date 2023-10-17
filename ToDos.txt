@@ -1,12 +1,5 @@
 - Home
-    - Navbar
-        - make the account dropdown menu functional
-        - then create user login page
     - Make a carousel of quotes on landing page
     - flow through 3-4 photos (broad genre) on main page
-
-- Services
-    - at least 6 goods purchasable by a button
-    - displayed in a bootstrap card
-
-- Checkout
+    
+- Checkout ****

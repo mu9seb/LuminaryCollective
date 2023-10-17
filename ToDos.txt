@@ -1,5 +1,3 @@
 - Home
     - Make a carousel of quotes on landing page
     - flow through 3-4 photos (broad genre) on main page
-    
-- Checkout ****

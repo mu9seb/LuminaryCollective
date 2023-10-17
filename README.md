@@ -17,9 +17,8 @@ My first capstone project in the LearnToCode Academy. We were tasked with creati
 ## Authors
 
 * **Sebastian Acosta** 
-
-- [Link to Github](https://github.com/mu9seb)
-- [Link to LinkedIn](www.linkedin.com/in/sebastian-acosta-8a7430282)
+    - [Link to Github](https://github.com/mu9seb)
+    - [Link to LinkedIn](www.linkedin.com/in/sebastian-acosta-8a7430282)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -28,5 +27,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License 
 
 ## Acknowledgments
-
 * Hat tip to documentation, without which none of this would have been possible! 

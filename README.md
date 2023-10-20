@@ -11,7 +11,7 @@ My first capstone project in the LearnToCode Academy. We were tasked with creati
 
 ## Deployed Link
 
-* [TO BE DEPLOYED ON WWW](#)
+* [Checkout the live site](https://mu9seb.github.io/LuminaryCollective/)
 
 
 ## Authors
